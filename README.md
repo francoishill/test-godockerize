@@ -1,2 +1,2 @@
 # test-godockerize
-Testing https://github.com/dahernan/godockerize (http://dahernan.github.io/2014/12/05/generate-a-dockerfile-for-go-microservice/)
+Testing http://fabioberger.com/blog/2014/12/19/how-to-dockerize-golang-webapp-with-postgres-db/
